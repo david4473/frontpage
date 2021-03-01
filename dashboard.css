@@ -34,13 +34,16 @@ display: flex;
 
 .logo-menu-container{
     display: flex;
-    background-color: coral;
     width: 20rem;
+    position: relative;
+    right: 6rem;
 }
 
 .logo{
     margin: 1rem;
-    margin-right: 4rem;
+    margin-right: 5rem;
+    position: relative;
+    bottom: 0.5rem;
 }
 
 .menu-text{
